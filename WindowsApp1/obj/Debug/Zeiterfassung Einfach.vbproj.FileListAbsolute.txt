@@ -1,0 +1,32 @@
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.manifest
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.application
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\Zeiterfassung Einfach.vbprojAssemblyReference.cache
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.frmZeiterfassung.resources
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\Zeiterfassung Einfach.vbproj.GenerateResource.cache
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\Zeiterfassung Einfach.vbproj.CoreCompileInputs.cache
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe.manifest
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.application
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\0 - Projekte R.Tap\Zeiterfassung-PRogramm.NET\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung Einfach.vbprojAssemblyReference.cache
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung Einfach.vbproj.GenerateResource.cache
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung Einfach.vbproj.CoreCompileInputs.cache
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\bin\Debug\Zeiterfassung.exe.config
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\bin\Debug\Zeiterfassung.exe.manifest
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\bin\Debug\Zeiterfassung.application
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\bin\Debug\Zeiterfassung.exe
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\bin\Debug\Zeiterfassung.pdb
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\bin\Debug\Zeiterfassung.xml
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.frmZeiterfassung.resources
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.Resources.resources
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.exe.manifest
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.application
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.exe
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.xml
+C:\Users\MSeid\Downloads\Zeiterfassung\WindowsApp1\obj\Debug\Zeiterfassung.pdb
